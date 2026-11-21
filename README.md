@@ -5,7 +5,7 @@
 
 **Project Name:** Student Performance and Attendance Analysis  
 **Developed By:** Aman Pal  
-**Admission Number:** 26B01010586  
+**Admission Number:** 2026B01010586  
 **Technology Used:** Python  
 **Libraries Used:** Pandas, NumPy  
 **Dataset Size:** 200 Students  
